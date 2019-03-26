@@ -1,6 +1,12 @@
 <<<<<<< HEAD
 hello
 
+<<<<<<< HEAD
+EveryOne
+
+Good Evng
+Guys.
+=======
 Everyone.
 
 
@@ -9,9 +15,13 @@ Good Evening
 
 
 All of you
+<<<<<<< HEAD
+>>>>>>> master
+=======
 =======
 hello
 >>>>>>> parent of d2eb1ac... File Updated
 =======
 Good Evening
 >>>>>>> parent of 9169895... To all added
+>>>>>>> master
