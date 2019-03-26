@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello
 
 Everyone.
@@ -7,3 +8,6 @@ Good Evening
 
 
 All of you
+=======
+hello
+>>>>>>> parent of d2eb1ac... File Updated
