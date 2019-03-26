@@ -1,3 +1,17 @@
-hello 
-lcnkjc
-cjcd
+<<<<<<< HEAD
+hello
+
+Everyone.
+
+
+<<<<<<< HEAD
+Good Evening
+
+
+All of you
+=======
+hello
+>>>>>>> parent of d2eb1ac... File Updated
+=======
+Good Evening
+>>>>>>> parent of 9169895... To all added
